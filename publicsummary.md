@@ -10,7 +10,7 @@
 
  
 
-Current media and journalism is depicting the reality of the current state of the planet, inciting panic among the public. **Climate Anxiety** is defined as anxious feelings about climate change regardless of whether the individual is directly impacted (Schwartz et al., 2022).
+Current media and journalism are depicting the reality of the current state of the planet, inciting panic among the public. **Climate Anxiety** is defined as anxious feelings about climate change regardless of whether the individual is directly impacted (Schwartz et al., 2022).
 
  
 
@@ -28,7 +28,7 @@ The causes of climate anxiety include individual experiences, media outlets, and
 
 ## Climate Anxiety: Motivating or Paralysing Global Response?
 
-The effects of climate anxiety on global climate change response has been highly debated about whether it discourages or propagates climate action. An individual’s self-conceptualization plays a significant role in shaping their response to climate threats, where those with an environmentally conscious mindset are more likely to engage in pro-environmental behaviours. (Fritsche and Häfner, 2012). Human behaviour is driven by the fear of death, leading to cultural beliefs and behaviours promoting self-preservation, without regard for others and the environment, while mitigating this existential anxiety (Wolfe and Tubi, 2019).
+The effects of climate anxiety on global climate change response have been highly debated about whether it discourages or propagates climate action. An individual’s self-conceptualization plays a significant role in shaping their response to climate threats, where those with an environmentally conscious mindset are more likely to engage in pro-environmental behaviours. (Fritsche and Häfner, 2012). Human behaviour is driven by the fear of death, leading to cultural beliefs and behaviours promoting self-preservation, without regard for others and the environment, while mitigating this existential anxiety (Wolfe and Tubi, 2019).
 
 Low engagement in climate response may be due to displacement of responsibility, or eco-paralysis stemming from fear and anxiety (Stanley et al., 2021). Climate anxiety has also been associated with scepticism, which can cause conspiratorial thinking (Haltinner and Sarathchandra, 2018). An adaptive, moderate level of climate anxiety is a strong predictor of individual climate action (van Valkengoed and Steg, 2019).
 
@@ -51,7 +51,7 @@ The COVID-19 pandemic shares many similarities with the climate crisis — they 
 
 **Early prevention** leads to lower harm in climate change and death tolls in COVID-19 (Figure 1). Both disproportionately affect **vulnerable populations** (Klenert et al., 2020). 
 
-In both there is **cognitive dissonance**, the harbouring of thoughts contradictory to one's actions, preventing response. Individuals ignored safety regulations put into place, potentially due to the limited tangible benefits to following these policies (McGrath, 2017). Blame is often placed on governments and the public, preventing individual response (Hinterleitner, Honegger and Sager, 2022). Individuals also blame others (e.g., political parties, countries) to protect one's ingroup (Bouguettaya, Walsh and Team, 2022). Both crises can cause individuals to adopt a zero-sum mentality; that the outgroup's gain comes at one’s own personal loss (Hasselmann et al., 2013).
+In both, there is **cognitive dissonance**, the harbouring of thoughts contradictory to one's actions, preventing response. Individuals ignored safety regulations put into place, potentially due to the limited tangible benefits to following these policies (McGrath, 2017). Blame is often placed on governments and the public, preventing individual response (Hinterleitner, Honegger and Sager, 2022). Individuals also blame others (e.g., political parties, countries) to protect one's ingroup (Bouguettaya, Walsh and Team, 2022). Both crises can cause individuals to adopt a zero-sum mentality; that the outgroup's gain comes at one’s own personal loss (Hasselmann et al., 2013).
 
 ### Differences: COVID-19 & Climate Change:
 
